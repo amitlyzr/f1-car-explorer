@@ -1,0 +1,4 @@
+# raw third-party 3D model downloads (untrusted, ~100 MB); f1-explained/public/models has the processed files
+model-sources/
+/uploads/
+/.forge-staging/

@@ -1,0 +1,96 @@
+{
+  "changes": "Models were re-oriented and scaled to metres, split into selectable parts by material and position (wing flaps separated so they can move), simplified where very dense, given metal finishes where untextured, re-encoded with WebP textures and meshopt compression. The fuel cell is modelled by hand: no openly licensed model of one exists.",
+  "credits": [
+    {
+      "usedFor": "Car exterior (W17, default)",
+      "title": "2026 Mercedes W17",
+      "author": "Dave Love SketchFab",
+      "authorUrl": "https://sketchfab.com/Tyler_Dave",
+      "url": "https://sketchfab.com/3d-models/2026-mercedes-w17-b806f1e70aa343219e7158169549b97b",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/",
+      "note": "Its part and material names match F1 game / sim-racing mod files, so its origin may not be the uploader’s own work."
+    },
+    {
+      "usedFor": "Car exterior (W14 alternative)",
+      "title": "Mercedes F1 W14 [FREE!!]",
+      "author": "3dblender_1",
+      "authorUrl": "https://sketchfab.com/3dblender_1",
+      "url": "https://sketchfab.com/3d-models/mercedes-f1-w14-free-26fda66f3e8a48d5a636056f8a64e299",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "usedFor": "Engine (ICE) — a 1991–92 Honda F1 V6 twin-turbo, standing in for the 2026 unit",
+      "title": "Williams FW14B Engine",
+      "author": "RubénGM14",
+      "authorUrl": "https://sketchfab.com/RG14",
+      "url": "https://sketchfab.com/3d-models/williams-fw14b-engine-ea24e02e5b5b4969b158e6838486e12f",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "usedFor": "Turbocharger",
+      "title": "Basic Turbo Charger",
+      "author": "Angus Whitburn",
+      "authorUrl": "https://sketchfab.com/AngusWhitburn",
+      "url": "https://sketchfab.com/3d-models/basic-turbo-charger-414dd8615bb24b798807fd187cedfe73",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "usedFor": "MGU-K — an industrial electric motor, standing in for the F1 unit",
+      "title": "Electric Motor",
+      "author": "Scarecrow_original",
+      "authorUrl": "https://sketchfab.com/Scarecrow_original",
+      "url": "https://sketchfab.com/3d-models/electric-motor-66b2ea9eb6e5468d91d814395036a537",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "usedFor": "Energy Store — 440 Li-ion cells built into a module",
+      "title": "Li-ion 18650 (MidPoly)",
+      "author": "damir CGI",
+      "authorUrl": "https://sketchfab.com/damir_cgi",
+      "url": "https://sketchfab.com/3d-models/li-ion-18650-midpoly-eefe894897f746f689b899f80b15d325",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "usedFor": "Gearbox — hypoid gear set (with its animation)",
+      "title": "Hypoid Gear",
+      "author": "C. Yamahata",
+      "authorUrl": "https://sketchfab.com/cyamahat",
+      "url": "https://sketchfab.com/3d-models/hypoid-gear-6592b808326541dd8b887bcf3da44619",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "usedFor": "Control Electronics — electrical enclosure, standing in for the F1 unit",
+      "title": "Industrial Electrical Box",
+      "author": "Krystofeles",
+      "authorUrl": "https://sketchfab.com/Krystofeles",
+      "url": "https://sketchfab.com/3d-models/industrial-electrical-box-de13c96dad014bf098df03030f314fee",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "usedFor": "Sidepod radiators",
+      "title": "Engine Radiator",
+      "author": "Terllok",
+      "authorUrl": "https://sketchfab.com/terllok",
+      "url": "https://sketchfab.com/3d-models/engine-radiator-590a29882e764c368c857ebaba4fd01b",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "usedFor": "Brake disc and caliper (×4)",
+      "title": "Brake Disk and Caliper",
+      "author": "Vladi",
+      "authorUrl": "https://sketchfab.com/vladivpg",
+      "url": "https://sketchfab.com/3d-models/brake-disk-and-caliper-5feda9dbf20a49cf9fd29d550e55e4b9",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "http://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "_note": "Third-party 3D sources checked for this site (Sketchfab, CC BY / CC0 only). `shipped` marks what the built models in public/models use; `note` records provenance concerns or why a source was not shipped. `excluded` lists what was rejected and why.",
+  "models": [
+    {
+      "slot": "car-w17",
+      "role": "Primary exterior: 2026 Mercedes W17",
+      "uid": "b806f1e70aa343219e7158169549b97b",
+      "use": true,
+      "shipped": true,
+      "note": "Shipped as the default car. Its part/material names (mercedes_paint, generics, tread_medium, gp21_cinture, kers_red) match F1 game / sim-racing mod files, so the uploader may not be the original author; the user chose to ship it alongside the clean W14."
+    },
+    {
+      "slot": "car-w14",
+      "role": "Fallback exterior: Mercedes W14 (author states made in Blender)",
+      "uid": "26fda66f3e8a48d5a636056f8a64e299",
+      "use": true,
+      "shipped": true
+    },
+    {
+      "slot": "car-w15",
+      "role": "Candidate exterior: Mercedes W15 (uploader also re-posted another author's W17; provenance to verify)",
+      "uid": "0c6b95f5329f4a4e8c3f039d890ee193",
+      "use": true,
+      "shipped": false,
+      "note": "Not shipped: node names (floor_damage, tether, pit_light, safetycell) and number-44 material identify an F1 video-game model"
+    },
+    {
+      "slot": "halo",
+      "role": "Halo (Mercedes W12 halo, made in Blender)",
+      "uid": "173e615463d749a79ccbf247990422d8",
+      "use": true,
+      "shipped": false,
+      "note": "Not shipped: both cars include their own halo"
+    },
+    {
+      "slot": "brakes",
+      "role": "Brake disc + caliper (PBR textured)",
+      "uid": "5feda9dbf20a49cf9fd29d550e55e4b9",
+      "use": true,
+      "shipped": true
+    },
+    {
+      "slot": "suspension",
+      "role": "Pushrod suspension corner (PBR textured)",
+      "uid": "52149ab2d93548e2a06ae60b888ac66f",
+      "use": true,
+      "shipped": false,
+      "note": "Not shipped: both cars include their own suspension arms"
+    },
+    {
+      "slot": "engine",
+      "role": "ICE: F1 V6 twin-turbo engine (Honda, 1991-92)",
+      "uid": "ea24e02e5b5b4969b158e6838486e12f",
+      "use": true,
+      "shipped": true
+    },
+    {
+      "slot": "engine-alt",
+      "role": "ICE alternative: V6 quad-turbo",
+      "uid": "acadef47f55d48fdb1fb3bd87cefa198",
+      "use": true,
+      "shipped": false,
+      "note": "Not shipped: the Honda V6 reads better"
+    },
+    {
+      "slot": "turbo",
+      "role": "Turbocharger",
+      "uid": "adaff01860a14e078ae5ccea05cb0df0",
+      "use": true,
+      "shipped": false,
+      "note": "Not shipped: turbo-alt is fully textured"
+    },
+    {
+      "slot": "turbo-alt",
+      "role": "Turbocharger alternative",
+      "uid": "414dd8615bb24b798807fd187cedfe73",
+      "use": true,
+      "shipped": true
+    },
+    {
+      "slot": "mguk",
+      "role": "MGU-K stand-in: electric motor (textured, animatable)",
+      "uid": "66b2ea9eb6e5468d91d814395036a537",
+      "use": true,
+      "shipped": true
+    },
+    {
+      "slot": "battery",
+      "role": "Energy Store stand-in: hybrid Li-ion battery pack (Chevy Volt)",
+      "uid": "43a3c30bac2c477c932a9fb421b400ba",
+      "use": true,
+      "shipped": false,
+      "note": "Not shipped: a plain white T-shaped box; the cell module is more convincing"
+    },
+    {
+      "slot": "battery-cell",
+      "role": "Energy Store alternative: Li-ion cell to build a module",
+      "uid": "eefe894897f746f689b899f80b15d325",
+      "use": true,
+      "shipped": true
+    },
+    {
+      "slot": "gearbox",
+      "role": "Gearbox/differential: hypoid gear set (animated)",
+      "uid": "6592b808326541dd8b887bcf3da44619",
+      "use": true,
+      "shipped": true
+    },
+    {
+      "slot": "radiator",
+      "role": "Sidepod radiator",
+      "uid": "590a29882e764c368c857ebaba4fd01b",
+      "use": true,
+      "shipped": true
+    },
+    {
+      "slot": "ce",
+      "role": "Control Electronics enclosure",
+      "uid": "de13c96dad014bf098df03030f314fee",
+      "use": true,
+      "shipped": true
+    }
+  ],
+  "excluded": [
+    {
+      "uid": "c5f63bf44aec4461b6e3f36703aeed9e",
+      "name": "Mercedes W15 (JC_YTB)",
+      "why": "Description says it is the F1 24 game model: a rip, so its CC BY label is not valid"
+    },
+    {
+      "uid": "5d32686537994e9eb91e9b424e45601c",
+      "name": "2026 Mercedes W17 (abuhossain844)",
+      "why": "Re-upload of Tyler_Dave's W17 a day later; use the original"
+    },
+    {
+      "uid": "f210e49637fd49bfa52860d2e17dcf50",
+      "name": "Mercedes W14 (redgrund)",
+      "why": "CC BY-NC-ND: no derivatives"
+    },
+    {
+      "uid": "608251cf6f9a429490b76592a199e7a4",
+      "name": "AMG F1 W15 2024 (heynic)",
+      "why": "CC BY-NC: non-commercial only"
+    },
+    {
+      "uid": "4e92f03f6181424496db1a5bb9446519",
+      "name": "Audi R26 concept (on_comet)",
+      "why": "AI-assisted reconstruction, not a Mercedes"
+    },
+    {
+      "source": "GrabCAD",
+      "why": "Terms grant personal, non-commercial use only; no redistribution licence for a public site"
+    },
+    {
+      "source": "BlenderKit",
+      "why": "Royalty Free licence forbids selling/redistributing the assets themselves; serving the raw GLB publicly is not clearly allowed, and downloads need an account key"
+    }
+  ]
+}
